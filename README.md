@@ -11,3 +11,6 @@ This project is created to show - how we can integrate some of popular services 
 Also, with this app you can test them. See their limitations & issues.
 
 App is based on open [TMDB API](https://www.themoviedb.org/documentation/api).
+
+## How to
+- Add your own Square API_KEY in main.dart file to use Square plugin.
